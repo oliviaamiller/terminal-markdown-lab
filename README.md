@@ -3,9 +3,9 @@
 ## what I learned today
 
 ### ACP
-* add 
-* commit
-* push
+* add: git add -A
+* commit: git commit -m 'description'
+* push: git push (origin main)
 
 **DO NOT** forget to _ACP_ or you will be sad 
 
